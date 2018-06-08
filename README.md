@@ -12,5 +12,5 @@
 
 # Open The Project
 * Open `JusticeLemon.pro` in Qt.
-* Change `"your squirrel file path"` in `startscene.cpp` to your squirrel file path.
+* Change `"your squirrel file path"` in `startscene.cpp` to your path of squirrel file.
    * You can use `walk.nut` in this project.
