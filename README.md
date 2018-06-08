@@ -7,7 +7,7 @@
    * Sqrat `http://scrat.sourceforge.net/`
 
 # Main Purpose
-* Use C++ and Qt to make a game like Battle Cats.
+* Use Qt to make a game like Battle Cats.
 * Practice embedding squirrel in C++.
 
 # Open The Project
