@@ -1,7 +1,12 @@
 # JUSTICE LEMON
-* 利用Qt實作貓咪大戰爭小遊戲
-* 練習在Qt中嵌入squirrel程式
+* Use C++ and Qt to make a game like Battle Cats.
+* Embedding squirrel in C++.
 
-# 需求
+# Requirement
 * squirrel `http://www.squirrel-lang.org/`
-* sqrat
+* sqrat `http://scrat.sourceforge.net/`
+
+# Open the project
+* Open `JusticeLemon.pro` in Qt.
+* Change `"your squirrel file path"` in `startscene.cpp` to your squirrel file path.
+   * You can use `walk.nut` in this project.
