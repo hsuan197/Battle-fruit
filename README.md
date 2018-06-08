@@ -1,2 +1,2 @@
 # JUSTICE LEMON
-* A game like battle cats
+* 實作貓咪大戰爭小遊戲
