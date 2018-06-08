@@ -1,16 +1,14 @@
 # Justice Lemon
 * Language
-   * `C++` `Squirrel`
+   * C++
+   * Squirrel `http://www.squirrel-lang.org/`
 * Tool
-   * `Qt` `Sqrat`
+   * Qt
+   * Sqrat `http://scrat.sourceforge.net/`
 
 # Main Purpose
 * Use C++ and Qt to make a game like Battle Cats.
-* Embedding squirrel in C++.
-
-# Requirement
-* squirrel `http://www.squirrel-lang.org/`
-* sqrat `http://scrat.sourceforge.net/`
+* Practice embedding squirrel in C++.
 
 # Open The Project
 * Open `JusticeLemon.pro` in Qt.
