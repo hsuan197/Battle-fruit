@@ -1,0 +1,65 @@
+<RCC>
+    <qresource prefix="/char">
+        <file alias="1">1.png</file>
+        <file alias="2">2.png</file>
+        <file alias="3">3.png</file>
+        <file alias="4">4.png</file>
+        <file alias="5">5.png</file>
+        <file alias="6">6.png</file>
+        <file alias="7">7.png</file>
+        <file alias="8">8.png</file>
+        <file alias="9">9.png</file>
+    </qresource>
+    <qresource prefix="/other">
+        <file alias="lose">18641187_1399710403453161_1177054644_o.png</file>
+        <file alias="win">win.png</file>
+        <file alias="bg2">aaa.png</file>
+        <file alias="st">sttt.png</file>
+        <file alias="bg">11111.png</file>
+        <file>icon.png</file>
+        <file alias="particle">32491998_1768490059908525_4854175993604079616_n.png</file>
+    </qresource>
+    <qresource prefix="/bui">
+        <file alias="b1">b1.png</file>
+        <file alias="b2">b2.png</file>
+        <file alias="eb1">eb1.png</file>
+        <file alias="eb2">eb2.png</file>
+    </qresource>
+    <qresource prefix="/bad">
+        <file alias="ch1-1">ch1-1.png</file>
+        <file alias="bad2">ene2.png</file>
+    </qresource>
+    <qresource prefix="/btn">
+        <file alias="1">btn1.png</file>
+        <file alias="2">btn2.png</file>
+        <file alias="3">btn3.png</file>
+        <file alias="4">btn4.png</file>
+        <file alias="5">btn5.png</file>
+        <file alias="6">btn6.png</file>
+        <file alias="7">btn7.png</file>
+        <file alias="8">btn8.png</file>
+        <file alias="i1">clk.png</file>
+        <file alias="i2">clk1.png</file>
+        <file alias="i3">clk2.png</file>
+        <file alias="i5">ibtn1.png</file>
+        <file alias="i6">ibtn2.png</file>
+        <file alias="i7">ibtn3.png</file>
+        <file alias="i8">ibtn4.png</file>
+        <file alias="i4">clk4.png</file>
+        <file alias="01">01.png</file>
+        <file alias="02">02.png</file>
+        <file alias="03">03.png</file>
+        <file alias="04">04.png</file>
+        <file alias="05">05.png</file>
+        <file alias="06">06.png</file>
+        <file alias="07">07.png</file>
+        <file alias="08">08.png</file>
+    </qresource>
+    <qresource prefix="/item">
+        <file alias="5">i1.png</file>
+        <file alias="6">i2.png</file>
+        <file alias="7">i3.png</file>
+        <file alias="8">i4.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
